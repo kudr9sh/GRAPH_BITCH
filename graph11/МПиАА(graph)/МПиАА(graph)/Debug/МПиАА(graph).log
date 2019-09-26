@@ -1,0 +1,6 @@
+﻿  bfs.cpp
+  main.cpp
+C:\Users\kudr9sh\source\repos\graph11\МПиАА(graph)\МПиАА(graph)\bfs.cpp(41,28): warning C4018:  <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\kudr9sh\source\repos\graph11\МПиАА(graph)\МПиАА(graph)\main.cpp(34,28): warning C4018:  <: несоответствие типов со знаком и без знака
+  МПиАА(graph).vcxproj -> C:\Users\kudr9sh\source\repos\graph11\МПиАА(graph)\Debug\МПиАА(graph).exe
